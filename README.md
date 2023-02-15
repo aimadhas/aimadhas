@@ -1,31 +1,22 @@
-Hi there, I'm [Your Name] 👋
-I'm a [Your Profession] and [Your Hobbies] enthusiast. I love to [Something you love doing].
+<h1 align="center">Hi 👋, I'm AIMAD HASNAOUI</h1>
+<h3 align="center">A passionate frontend developer from Marocco</h3>
 
-🔭 Current Work
-I'm currently working on [Current Project] at [Current Company].
+- 🌱 I’m currently learning **react**
 
-🌱 Learning
-I'm currently learning [Something you're currently learning] and [Something else you're currently learning].
+- 👨‍💻 All of my projects are available at [https://github.com/aimadhas?tab=repositories](https://github.com/aimadhas?tab=repositories)
 
-💬 Ask me about
-Ask me about [Something you're knowledgeable about], [Something else you're knowledgeable about], or anything else you'd like to know!
+- 💬 Ask me about **anything you want**
 
-📫 How to reach me
-You can reach me through [Your preferred way of contact], or connect with me on [Your social media links].
+- 📫 How to reach me **aimadhas1234@gmail.com**
 
-⚡ Fun fact
-[Something interesting/funny about yourself]
+- 📄 Know about my experiences [I am Still learn am just a student](I am Still learn am just a student)
 
-🌟 GitHub Stats
-[Insert your GitHub stats here using tools like Shields.io or GitHub-readme-stats]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/aimadhas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aimadhas" height="30" width="40" /></a>
+<a href="https://twitter.com/aimadhas1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aimadhas1234" height="30" width="40" /></a>
+<a href="https://instagram.com/learn.coding2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="learn.coding2" height="30" width="40" /></a>
+</p>
 
-🎯 Goals
-My goals for the near future are:
-
-[Your Goal 1]
-[Your Goal 2]
-[Your Goal 3]
-🎶 Favorite Spotify Playlist
-[Insert your favorite Spotify playlist here]
-
-Thanks for stopping by!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
