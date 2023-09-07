@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything you want**
 
-- 📫 How to reach me **aimadhas1234@gmail.com**
+- 📫 How to reach me **aimadhas57@gmail.com**
 
 - 📄 Know about my experiences I am Still learn am just a student
 <h3 align="left">Connect with me:</h3>
